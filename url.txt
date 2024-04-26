@@ -1,0 +1,11 @@
+Link Deployment HuggingFace
+
+https://huggingface.co/spaces/Kelvin01/Sentiment_Analysis_GC7
+
+Link Dataset
+
+https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
+
+Link Model
+
+https://drive.google.com/file/d/115tKqMmnHjx99b2aeoBbnyoIflXkXX3P/view?usp=drive_link
