@@ -25,9 +25,13 @@ Model Inference: Testing the trained model on new review data to make sentiment 
 
 ## Technology Stack
 The project is developed using the following technologies:
+
 Programming Language: Python
+
 Data Analysis and Manipulation: Pandas
+
 Natural Language Processing: NLTK, Scikit-learn, etc
+
 Notebook Environment: Jupyter Notebook
 
 ## Files
